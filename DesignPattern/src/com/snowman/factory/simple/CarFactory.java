@@ -2,6 +2,8 @@ package com.snowman.factory.simple;
 
 /**
  * simple factory creator
+ * @author snowman
+ * time 2018.07.04
  */
 public class CarFactory {
 
