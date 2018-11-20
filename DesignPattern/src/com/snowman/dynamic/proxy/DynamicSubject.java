@@ -11,6 +11,7 @@ import java.lang.reflect.Method;
  */
 public class DynamicSubject implements InvocationHandler {
 
+    
 
     /**
      * 每一个代理的实例都有一个与之关联的handler
@@ -23,6 +24,7 @@ public class DynamicSubject implements InvocationHandler {
 
     public DynamicSubject(Object object) {
         this.object = object;
+
     }
 
     /**

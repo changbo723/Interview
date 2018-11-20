@@ -7,5 +7,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="javassist-3.14.0-ga-1.0.0.jar" level="project" />
   </component>
 </module>
